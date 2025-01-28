@@ -1,3 +1,3 @@
 {
-  "notification": "Bot By HaiNinh.site\nMua HACK ib @WeansHHN"
+  "notification": "Bot By HaiNinh.site 🤖\nMua HACK ib @WeansHHN"
 }
