@@ -8,7 +8,7 @@ Ilumia Khải Huyền Thiên Hậu,136,9
 Lauriel Thứ Nguyên Vệ Thần,141,11
 Tulen Chí Tôn Kiếm Tiên,190,7
 Tulen Thần Sứ,190,9
-Heino,563,1
+Heino Nhật Ký Tình Yêu,563,1
 Airi Bích Hải,130,11
 Billow Thiên Tướng - Độ Ách,599,1
 Bolt Baron Thiên Phủ - Tư Mệnh,598,2
@@ -36,4 +36,4 @@ Hayate Siêu Đạo Chích Kid,132,13
 Eland'orr Mộng Giới Thần Chủ,199,8
 Aya Công chúa cầu vồng,543,7
 Rouie Lữ Hành Thời Không,191,9
-Dolya,159,3
+Dolya Nhật Ký Tình Yêu,159,3
