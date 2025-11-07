@@ -1,0 +1,39 @@
+Không Chọn,0,0,Khac
+Veera Thất Sát - Thượng Sinh,109,15,Phap Su
+Krixi Phù Thủy Thời Không,106,20,Phap Su
+Krixi Lốc Xoáy Kinh Hoàng,106,11,Phap Su
+Raz Bão Vũ Cuồng Lôi,157,10,Phap Su
+Iggy Rimuru Tempest,538,6,Phap Su
+Ilumia Khải Huyền Thiên Hậu,136,9,Phap Su
+Lauriel Thứ Nguyên Vệ Thần,141,11,Phap Su
+Tulen Chí Tôn Kiếm Tiên,190,7,Phap Su
+Tulen Thần Sứ,190,9,Phap Su
+Heino Nhật Ký Tình Yêu,563,1,Phap Su
+Airi Bích Hải,130,11,Sat Thu
+Billow Thiên Tướng - Độ Ách,599,1,Sat Thu
+Bolt Baron Thiên Phủ - Tư Mệnh,598,2,Dau Si
+Butterfly Phượng Cửu Thiên,116,7,Sat Thu
+Bijan Lữ Hành Thời Không,548,5,Dau Si
+Bijan Kình Thiên Long Kỵ,548,4,Dau Si
+Murad Tuyệt Thế Thần Binh,131,16,Sat Thu
+Murad Thiên Luân Kiếm Thánh,131,18,Sat Thu
+Nakroth Bạch Diện Chiến Thương,150,15,Sat Thu
+Nakroth Quỷ Thương Liệp Đế,150,13,Sat Thu
+Ngộ Không Tề Thiên,167,12,Sat Thu
+Paine Megumi Fushiguro,137,6,Sat Thu
+Veres Lưu Ly Long Mẫu,520,11,Dau Si
+Yena Huyền Cửu Thiên,154,12,Dau Si
+Violet Nobara Kugisaki,111,20,Xa Thu
+Violet Thứ Nguyên Vệ Thần,111,7,Xa Thu
+Violet Huyết Ma Thần,111,13,Xa Thu
+Violet Vọng Nguyêt Long Cơ,111,19,Xa Thu
+Violet Vợ Người Ta,111,10,Xa Thu
+Val Thứ Nguyên Vệ Thần,133,14,Xa Thu
+Capheny Càn Nguyên Điện Chủ,524,14,Xa Thu
+Hayate Tử Thần Vũ Trụ,132,4,Xa Thu
+Hayate Tu Di Thánh Đế,132,10,Xa Thu
+Hayate Siêu Đạo Chích Kid,132,13,Xa Thu
+Eland'orr Mộng Giới Thần Chủ,199,8,Xa Thu
+Aya Công chúa cầu vồng,543,7,Ho Tro
+Rouie Lữ Hành Thời Không,191,9,Ho Tro
+Dolya Nhật Ký Tình Yêu,159,3,Ho Tro
