@@ -21,6 +21,7 @@ Nakroth Bạch Diện Chiến Thương,150,15,Sat Thu
 Nakroth Quỷ Thương Liệp Đế,150,13,Sat Thu
 Ngộ Không Tề Thiên,167,12,Sat Thu
 Paine Megumi Fushiguro,137,6,Sat Thu
+Triệu Vân Minh Chung Long Đế,129,12,Dau Si
 Veres Lưu Ly Long Mẫu,520,11,Dau Si
 Yena Huyền Cửu Thiên,154,12,Dau Si
 Violet Nobara Kugisaki,111,20,Xa Thu
