@@ -6,6 +6,7 @@ Raz Bão Vũ Cuồng Lôi,157,10,Phap Su
 Iggy Rimuru Tempest,538,6,Phap Su
 Ilumia Khải Huyền Thiên Hậu,136,9,Phap Su
 Lauriel Thứ Nguyên Vệ Thần,141,11,Phap Su
+Lauriel Tinh Vân Sứ,141,7,Phap Su
 Tulen Chí Tôn Kiếm Tiên,190,7,Phap Su
 Tulen Thần Sứ,190,9,Phap Su
 Heino Nhật Ký Tình Yêu,563,1,Phap Su
