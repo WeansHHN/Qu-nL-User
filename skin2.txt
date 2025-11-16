@@ -26,6 +26,7 @@ Paine Megumi Fushiguro,137,6,Sat Thu
 Triệu Vân Minh Chung Long Đế,129,12,Dau Si
 Veres Lưu Ly Long Mẫu,520,11,Dau Si
 Yena Huyền Cửu Thiên,154,12,Dau Si
+Qi Milim Nava,528,9,Dau Si
 Violet Nobara Kugisaki,111,20,Xa Thu
 Violet Thứ Nguyên Vệ Thần,111,7,Xa Thu
 Violet Huyết Ma Thần,111,13,Xa Thu
