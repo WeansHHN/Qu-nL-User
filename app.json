@@ -1,0 +1,15 @@
+{
+  "status": 1,
+  "apps": [
+    {
+      "name": "Free Fire",
+      "scheme": "freefire://",
+      "ipa": "https://domain.com/ff.plist"
+    },
+    {
+      "name": "Free Fire Max",
+      "scheme": "freefiremax://",
+      "ipa": "https://domain.com/ffmax.plist"
+    }
+  ]
+}
