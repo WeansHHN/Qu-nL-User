@@ -39,5 +39,6 @@ Hayate Tu Di Thánh Đế,132,10,Xa Thu
 Hayate Siêu Đạo Chích Kid,132,13,Xa Thu
 Eland'orr Mộng Giới Thần Chủ,199,8,Xa Thu
 Aya Công chúa cầu vồng,543,7,Ho Tro
+Aya Cinnamoroll's Dream,543,9,Ho Tro
 Rouie Lữ Hành Thời Không,191,9,Ho Tro
 Dolya Nhật Ký Tình Yêu,159,3,Ho Tro
