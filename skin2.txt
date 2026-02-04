@@ -1,5 +1,6 @@
 Không Chọn,0,0,Khac
 Veera Thất Sát - Thượng Sinh,109,15,Phap Su
+Yue Hỗ Độn Thần Ma,545,7,Phap Su
 Krixi Phù Thủy Thời Không,106,20,Phap Su
 Krixi Lốc Xoáy Kinh Hoàng,106,11,Phap Su
 Raz Bão Vũ Cuồng Lôi,157,10,Phap Su
@@ -13,6 +14,7 @@ Tulen Thần Sứ,190,9,Phap Su
 Heino Nhật Ký Tình Yêu,563,1,Phap Su
 Airi Bích Hải,130,11,Sat Thu
 Billow Thiên Tướng - Độ Ách,599,1,Sat Thu
+Billow Vua Trò Chơi- Độ Ách,599,2,Sat Thu
 Bolt Baron Thiên Phủ - Tư Mệnh,598,2,Dau Si
 Butterfly Phượng Cửu Thiên,116,7,Sat Thu
 Bijan Lữ Hành Thời Không,548,5,Dau Si
