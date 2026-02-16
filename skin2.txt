@@ -13,6 +13,7 @@ Lauriel Tinh Vân Sứ,141,7,Phap Su
 Tulen Chí Tôn Kiếm Tiên,190,7,Phap Su
 Tulen Thần Sứ,190,9,Phap Su
 Heino Nhật Ký Tình Yêu,563,1,Phap Su
+Điêu Thuyền Nhật Nguyệt Thánh Linh,152,17,Phap Su
 Airi Bích Hải,130,11,Sat Thu
 Billow Thiên Tướng - Độ Ách,599,1,Sat Thu
 Billow Vua Trò Chơi- Độ Ách,599,2,Sat Thu
